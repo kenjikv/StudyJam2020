@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultMap>
+
+    <entry>
+        <key>splash_background</key>
+        <value>#039BE5</value>
+    </entry>
+
+    <entry>
+        <key>splash_image</key>
+        <value>image_default</value>
+    </entry>
+
+    <entry>
+        <key>splash_text</key>
+        <value>Cargando...</value>
+    </entry>
+
+</defaultMap>

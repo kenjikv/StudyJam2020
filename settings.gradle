@@ -1,0 +1,2 @@
+rootProject.name='StudyJam2020'
+include ':app'
